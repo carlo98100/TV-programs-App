@@ -1,0 +1,260 @@
+ENGLISH:
+Hi! Which app do you want to start?
+Hi! Which app do you want to start?
+
+Sorry! Your device doesn't support this function!
+Sorry! Your device doesn't support this function!
+
+start netflix.
+Start netflix.
+
+start youtube.
+Start youtube.
+
+start viafree
+start viafree.
+
+start tvfour.
+start tvfour.
+
+start dplay.
+start dplay.
+
+start viaplay.
+start viaplay.
+
+start svtplay.
+start svtplay.
+
+start twitch.
+start twitch.
+
+Couldn't find this app.
+Couldn't find this app.
+
+We cant find this app, do you want to download it?
+We cant find this app, do you want to download it?
+
+Yes.
+Yes.
+
+No.
+No.
+
+Categories.
+Categories.
+
+Reality.
+Reality.
+
+Entertainment.
+Entertainment.
+
+SWEDISH:
+Hi! Which app do you want to start?
+Hej! Vilken app vill du starta?
+
+Sorry! Your device doesn't support this function!
+Förlåt! Din telefon kan inte använda denna funktion!
+
+start netflix.
+Starta netflix.
+
+start youtube.
+Starta youtube.
+
+start viafree.
+Starta viafree.
+
+start tvfour.
+Starta tvfyra.
+
+start dplay.
+Starta dplay.
+
+start viaplay.
+Starta viaplay.
+
+start svtplay.
+Starta svtplay.
+
+start twitch.
+Starta twitch.
+
+Couldn't find this app.
+Kunde inte hitta denna app.
+
+We cant find this app, do you want to download it?
+Vi kunde inte hitta appen, vill du ladda ner den?
+
+Yes.
+Ja.
+
+No.
+Nej.
+
+Categories.
+Kategorier.
+
+Reality.
+Verklighet.
+
+Entertainment.
+Underhållning.
+
+GERMAN:
+Hi! Which app do you want to start?
+Hallo! Welche App möchtest du starten?
+
+start netflix.
+Start netflix.
+
+start youtube.
+Start youtube.
+
+start viafree.
+start viafree.
+
+start tvfour.
+start tvfour.
+
+start dplay.
+start dplay.
+
+start viaplay.
+start viaplay.
+
+start svtplay.
+start svtplay.
+
+start twitch.
+start twitch.
+
+Couldn't find this app.
+Kann diese App nicht finden.
+
+Sorry! Your device doesn't support this function!.
+Es tut uns leid! Ihr Gerät unterstÜtzt diese Funktion nicht.
+
+We cant find this app, do you want to download it?
+Wir können diese App nicht finden. Möchten sie sie herunterladen?
+
+Yes.
+Ja.
+
+No.
+Nein.
+
+Categories.
+Kategorien.
+
+Reality.
+Wirklichkeit.
+
+Entertainment.
+Unterhaltung.
+
+FRENCH:
+Hi! Which app do you want to start?
+Salut! quelle application voulez-vous commencer.
+
+Sorry! Your device doesn't support this function!
+Pardon! votre appareil ne supporte pas cette fonction.
+
+start netflix.
+Démarrer netflix.
+
+start youtube.
+Démarrer youtube.
+
+start viafree.
+Démarrer viafree.
+
+start tvfour.
+Démarrer tvfour.
+
+start dplay.
+Démarrer dplay.
+
+start viaplay.
+Démarrer viaplay.
+
+start svtplay.
+Démarrer svtplay.
+
+start twitch.
+Démarrer twitch.
+
+Couldn't find this app.
+N'a pas pu trouver cette application.
+
+We cant find this app, do you want to download it?
+Nous ne pouvions pas trouver cette application, voulez-vous le télécharger?
+
+Yes.
+Oui.
+
+No.
+Non.
+
+Categories.
+Catégories.
+
+Reality.
+Réalité.
+
+Entertainment.
+Divertissement.
+
+SPANISH:
+Hi! Which app do you want to start?
+Hola, ¿qué aplicación quieres comenzar?
+
+
+Sorry! Your device doesn't support this function!
+Pedon! su dispositivo no es compatible con esta función!
+
+start netflix.
+Empezar netflix.
+
+start youtube.
+Empezar youtube.
+
+start viafree.
+Empezar viafree.
+
+start tvfour.
+Empezar tvfour.
+
+start dplay.
+Empezar dplay.
+
+start viaplay.
+Empezar viaplay.
+
+start svtplay.
+Empezar svtplay.
+
+start twitch.
+Empezar twitch.
+
+Couldn't find this app.
+No se pudo encontrar esta aplicación.
+
+We cant find this app, do you want to download it?.
+No podemos encontrar esta aplicación, ¿quieres descargarla?
+
+Yes.
+Sí.
+
+No.
+No.
+
+Categories.
+Categorías.
+
+Reality.
+Entetenimiento.
+
+Entertainment.
+Realidid.
